@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P2comunicacionActivity</string>
+    <string name="lblA1Bienvenida">P1 COMUNACACION ACTIVITY</string>
+    <string name="btnSiguiente">SigActivity</string>
+    <string name="lblA2Saludo">Hola Mundo</string>
+    <string name="txtA1pieDatos">Ingresa nombre</string>
+    <string name="btnA1pasaParametro">PasaNombre</string>
+</resources>
